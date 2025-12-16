@@ -1,0 +1,218 @@
+{
+  "title": "NBA Now",
+  "tag": "Analyses, joueurs, dynamiques de saison",
+  "logo": "assets/images/logo.svg",
+  "cta": {
+    "text": "Suivre les matchs",
+    "label": "S'abonner"
+  },
+  "feature": {
+    "headline": "Saison 2025 : spacing et défense switch",
+    "summary": "Versatilité et tir extérieur.",
+    "body": "Les équipes optimisent le spacing, privilégient les lineups mobiles et le tir à 3 points.",
+    "date": "1er Décembre 2025",
+    "topic": "Tactique",
+    "author": "David",
+    "imageHero": "assets/texture/texture1.jpg",
+    "rating": 4.7,
+    "views": 11500,
+    "read": "7 min",
+    "tags": [
+      "spacing",
+      "switch",
+      "3pts"
+    ],
+    "titre": "Saison 2025 : spacing et défense switch",
+    "description": "Versatilité et tir extérieur.",
+    "corps": "Les équipes optimisent le spacing, privilégient les lineups mobiles et le tir à 3 points.",
+    "theme": "Tactique",
+    "auteur": "David"
+  },
+  "stories": [
+    {
+      "headline": "Joueurs impact",
+      "summary": "MVP race.",
+      "body": "Profil statistique et leadership.",
+      "date": "28 Novembre 2025",
+      "topic": "Joueurs",
+      "author": "Rédaction",
+      "image": "assets/texture/texture2.png",
+      "rating": 4.6,
+      "views": 9400,
+      "read": "6 min",
+      "titre": "Joueurs impact",
+      "description": "MVP race.",
+      "corps": "Profil statistique et leadership.",
+      "theme": "Joueurs",
+      "auteur": "Maître Gims"
+    },
+    {
+      "headline": "Pick-and-roll : variations",
+      "summary": "Angles et timings.",
+      "body": "Short roll et pop.",
+      "date": "25 Novembre 2025",
+      "topic": "Attaque",
+      "author": "David",
+      "image": "assets/texture/texture3.jpg",
+      "rating": 4.4,
+      "views": 7800,
+      "read": "5 min",
+      "titre": "Pick-and-roll : variations",
+      "description": "Angles et timings.",
+      "corps": "Short roll et pop.",
+      "theme": "Attaque",
+      "auteur": "Micheal Jackson"
+    },
+    {
+      "headline": "Analytics et shot profile",
+      "summary": "3 points vs mid-range.",
+      "body": "Expected points.",
+      "date": "19 Novembre 2025",
+      "topic": "Stats",
+      "author": "Rédaction",
+      "image": "assets/texture/texture4.jpg",
+      "rating": 4.3,
+      "views": 7200,
+      "read": "5 min",
+      "titre": "Analytics et shot profile",
+      "description": "3 points vs mid-range.",
+      "corps": "Expected points.",
+      "theme": "Stats",
+      "auteur": "Messi"
+    },
+    {
+      "headline": "Rotation et minutes",
+      "summary": "Gestion des charges.",
+      "body": "Back-to-back.",
+      "date": "15 Novembre 2025",
+      "topic": "Coaching",
+      "author": "David",
+      "image": "assets/texture/texture5.jpg",
+      "rating": 4.6,
+      "views": 8600,
+      "read": "6 min",
+      "titre": "Rotation et minutes",
+      "description": "Gestion des charges.",
+      "corps": "Back-to-back.",
+      "theme": "Coaching",
+      "auteur": "Harry Potter"
+    },
+    {
+      "headline": "Clutch time : décisions",
+      "summary": "Ajustements fin de match.",
+      "body": "Sets et isolations.",
+      "date": "10 Novembre 2025",
+      "topic": "Fin de match",
+      "author": "Rédaction",
+      "image": "assets/texture/texture6.jpg",
+      "rating": 4.2,
+      "views": 6400,
+      "read": "4 min",
+      "titre": "Clutch time : décisions",
+      "description": "Ajustements fin de match.",
+      "corps": "Sets et isolations.",
+      "theme": "Fin de match",
+      "auteur": "David"
+    }
+  ],
+  "topics": [
+    {
+      "title": "Tactiques",
+      "desc": "Schémas de jeu.",
+      "icon": "🏀",
+      "image": "assets/texture/texture7.jpg",
+      "color": "#3B82F6",
+      "nom": "Tactiques",
+      "description": "Schémas de jeu."
+    },
+    {
+      "title": "Attaque",
+      "desc": "Pick & roll.",
+      "icon": "🎯",
+      "image": "assets/texture/texture7.jpg",
+      "color": "#10B981",
+      "nom": "Attaque",
+      "description": "Pick & roll."
+    },
+    {
+      "title": "Stats",
+      "desc": "Analyses avancées.",
+      "icon": "📊",
+      "image": "assets/texture/texture7.jpg",
+      "color": "#F59E0B",
+      "nom": "Stats",
+      "description": "Analyses avancées."
+    },
+    {
+      "title": "Coaching",
+      "desc": "Rotations et minutes.",
+      "icon": "🎧",
+      "image": "assets/texture/texture7.jpg",
+      "color": "#8B5CF6",
+      "nom": "Coaching",
+      "description": "Rotations et minutes."
+    },
+    {
+      "title": "Fin de match",
+      "desc": "Clutch et sets.",
+      "icon": "⏱️",
+      "image": "assets/texture/texture7.jpg",
+      "color": "#EF4444",
+      "nom": "Fin de match",
+      "description": "Clutch et sets."
+    },
+    {
+      "title": "Draft",
+      "desc": "Prospects et picks.",
+      "icon": "📝",
+      "image": "assets/texture/texture7.jpg",
+      "color": "#6B7280",
+      "nom": "Draft",
+      "description": "Prospects et picks."
+    }
+  ],
+  "contributors": [
+    {
+      "firstName": "David",
+      "expertise": "Analyste basket",
+      "bio": "Jeu moderne et data.",
+      "avatar": "assets/texture/texture7.jpg",
+      "email": "david@nba.com",
+      "articles": 26,
+      "followers": 7800,
+      "prenom": "David",
+      "nom": "",
+      "typeExperience": "Analyste NBA",
+      "presentation": "Stratégies et performances.",
+      "image": "assets/texture/texture7.jpg"
+    },
+    {
+      "firstName": "Tiakola",
+      "expertise": "Data analyst",
+      "bio": "Shot charts et models.",
+      "avatar": "assets/texture/texture7.jpg",
+      "email": "tiakola@analyticsnba.com",
+      "articles": 18,
+      "followers": 4700,
+      "prenom": "Tiakola",
+      "nom": "",
+      "typeExperience": "Data analyst",
+      "presentation": "Shot charts et models.",
+      "image": "assets/texture/texture7.jpg"
+    },
+    {
+      "firstName": "MIG",
+      "expertise": "Coach assistant",
+      "bio": "Rotations et scouting.",
+      "avatar": "assets/texture/texture7.jpg",
+      "email": "mig@coachnba.com",
+      "articles": 17,
+      "followers": 4300,
+      "prenom": "MIG",
+      "nom": "",
+      "typeExperience": "Coach assistant",
+      "presentation": "Rotations et scouting.",
+      "image": "assets/texture/texture7.jpg"
+    }
+  ]
+}
