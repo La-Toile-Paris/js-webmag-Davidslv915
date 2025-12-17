@@ -13,7 +13,7 @@
     "date": "1er Décembre 2025",
     "topic": "Tactique",
     "author": "David",
-    "imageHero": "assets/texture/texture1.jpg",
+    "imageHero": "https://pixelz.cc/wp-content/uploads/2019/04/los-angeles-lakers-nba-logo-uhd-4k-wallpaper.jpg",
     "rating": 4.7,
     "views": 11500,
     "read": "7 min",
@@ -36,7 +36,7 @@
       "date": "28 Novembre 2025",
       "topic": "Joueurs",
       "author": "Rédaction",
-      "image": "assets/texture/texture2.png",
+      "image": "https://cdn.nba.com/manage/2025/04/16x9-safezone_MVP-1-1-1568x882.jpg",
       "rating": 4.6,
       "views": 9400,
       "read": "6 min",
@@ -53,7 +53,7 @@
       "date": "25 Novembre 2025",
       "topic": "Attaque",
       "author": "David",
-      "image": "assets/texture/texture3.jpg",
+      "image": "https://fivethirtyeight.com/wp-content/uploads/2022/04/AP22070120242641-16x9-1.jpg?w=712",
       "rating": 4.4,
       "views": 7800,
       "read": "5 min",
@@ -70,7 +70,7 @@
       "date": "19 Novembre 2025",
       "topic": "Stats",
       "author": "Rédaction",
-      "image": "assets/texture/texture4.jpg",
+      "image": "https://www.theringer.com/_next/image?url=https%3A%2F%2Fwp.theringer.com%2Fwp-content%2Fuploads%2F2025%2F10%2Fimage-1.jpeg&w=3840&q=75&dpl=26579ac90ad16561be99f5de305a4bbecd123c3b",
       "rating": 4.3,
       "views": 7200,
       "read": "5 min",
@@ -87,7 +87,7 @@
       "date": "15 Novembre 2025",
       "topic": "Coaching",
       "author": "David",
-      "image": "assets/texture/texture5.jpg",
+      "image": "https://www.addmorefunds.com/images/nba-rotations-daterange-sample.jpg",
       "rating": 4.6,
       "views": 8600,
       "read": "6 min",
@@ -104,7 +104,7 @@
       "date": "10 Novembre 2025",
       "topic": "Fin de match",
       "author": "Rédaction",
-      "image": "assets/texture/texture6.jpg",
+      "image": "https://statathlon.com/wp-content/uploads/2018/05/photo_kobe_04_1296x823.jpg",
       "rating": 4.2,
       "views": 6400,
       "read": "4 min",
@@ -184,7 +184,7 @@
       "nom": "",
       "typeExperience": "Analyste NBA",
       "presentation": "Stratégies et performances.",
-      "image": "assets/texture/texture7.jpg"
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg0NzY2NjYzM15BMl5BanBnXkFtZTcwNzk5NTc0NA@@._V1_.jpg"
     },
     {
       "firstName": "Tiakola",
@@ -198,21 +198,21 @@
       "nom": "",
       "typeExperience": "Data analyst",
       "presentation": "Shot charts et models.",
-      "image": "assets/texture/texture7.jpg"
+      "image": "https://img.lemde.fr/2023/02/09/0/0/3508/4680/664/0/75/0/2974418_1675948381389-07-04-2022-070422-tiakola-0748copy.jpg"
     },
     {
-      "firstName": "MIG",
+      "firstName": "Gilbert",
       "expertise": "Coach assistant",
       "bio": "Rotations et scouting.",
       "avatar": "assets/texture/texture7.jpg",
       "email": "mig@coachnba.com",
       "articles": 17,
       "followers": 4300,
-      "prenom": "MIG",
+      "prenom": "Gilbert",
       "nom": "",
       "typeExperience": "Coach assistant",
       "presentation": "Rotations et scouting.",
-      "image": "assets/texture/texture7.jpg"
+      "image": "https://media.ouest-france.fr/v1/pictures/MjAxNzEyYzY0NmUzYmY3YTY0ZDlhNGE2YWNhNDRjMzUzNWE3YjM?width=1260&height=708&focuspoint=50%2C25&cropresize=1&client_id=bpeditorial&sign=b62c96cf0c75ba96188c8c55130dc1a942fd9c137d270cfa879aa627395e8ee0"
     }
   ]
 }

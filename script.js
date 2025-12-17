@@ -18,49 +18,54 @@ function getData() {
          phraseAccroche.textContent = "Analyses, joueurs, dynamiques de saison";
 
       // TODO 2: REMPLIR LA NAVIGATION
-     let themesNav = document.getElementById("themes-nav");
-
-journal.topics.forEach((topic) => {
-    themesNav.insertAdjacentHTML("beforeend", topic.nom + " ");
-});
+     let themeNav = document.getElementById('themes-nav')
+     journal.topics.forEach((topic) => {
+     let nav= `<div class = container>
+     <div class= nav-theme-btn >
+     <p class = nav-theme-btn:hover  >${topic.title}${topic.icon}</p>
+     </div>
+     </div>
+     `
+     themeNav.insertAdjacentHTML("beforeend", nav);
+     });
 
 
 
       // TODO 3: REMPLIR L'ARTICLE PRINCIPAL   
     let articlePrincipal = document.getElementById("article-principal");
 
-let principal = `
-    <div class="container-full">
-        <img src="${journal.feature.imageHero}" id="hero-image" alt="${journal.feature.titre}">
+     let principal = `
+     <div class="container-full">
+        <img src="${journal.feature.imageHero}" class="hero-image" alt="${journal.feature.titre}">
         <h2>${journal.feature.titre}</h2>
         <p id="hero-description">${journal.feature.summary}</p>
         <p class="hero-body">${journal.feature.corps}</p>
         <p class="hero-author">Par ${journal.feature.auteur} | ${journal.feature.date}</p>
-    </div>
-`;
+     </div>
+     `;
 articlePrincipal.innerHTML = principal;
 
 
       // TODO 4: REMPLIR LA GRILLE D'ARTICLES
-   let articlesGrid = document.getElementById("articles-grid");
+     let articlesGrid = document.getElementById("articles-grid");
 
-journal.stories.forEach((story) => {
-    let articleCard = `
+      journal.stories.forEach((story) => {
+      let articleCard = `
         <div class="article-card">
             <img src="${story.image}" alt="${story.titre}" class="article-image">
             <h3 class="article-title">${story.titre}</h3>
             <p class="article-summary">${story.description}</p>
             <p class="article-meta"> ${story.auteur} ${story.date}</p>
         </div>
-    `;
+     `;
 
-    articlesGrid.insertAdjacentHTML("beforeend", articleCard);
-});
+     articlesGrid.insertAdjacentHTML("beforeend", articleCard);
+     });
 
 
 
       // TODO 5: REMPLIR LES THEMES
-let listeThemes = document.getElementById("themes-list");
+     let listeThemes = document.getElementById("themes-list");
 
 journal.topics.forEach((theme) => {
     let themeHTML = `
